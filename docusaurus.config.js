@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Technical Guides',
   tagline: 'Dinosaurs are cool',
-  url: 'landf-engineering.netlify.app',
+  url: 'https://landf-engineering.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
